@@ -1,0 +1,162 @@
+
+*{
+	padding:0;
+	margin:0;
+        
+}
+body{
+    background-color: white;
+}
+
+
+
+/*the main container */
+.head-container {
+	width:935px;
+	margin: 0 auto;
+        margin-left: 5px;
+        border-width: 1.5px;
+        border-style: solid;
+        background-color:white;
+        height:97px;
+        font-family: arial;
+}
+
+.tm-container {
+	width:800px;
+	margin: 0 auto;
+        margin-left: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-width: 1.5px;
+        border-style: solid;
+        background-color:white;
+        font-family: arial;
+}
+
+.hcenteralign{
+    text-align: center;
+    font-family: arial;
+    padding-right: 175px;
+}
+
+.footer {
+    padding-left: 350px;
+    font-family: arial;
+    font-size: 14px;
+    
+    
+}
+.floatme{
+    float:right;
+    padding-right: 10px;
+    vertical-align:text-bottom;
+    font-family: arial;
+}
+
+.sideLinks{
+    float:left;
+    margin-left: 5px;
+    height: 76px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: green;
+    font-family: arial;
+    
+}
+.headerimg{
+    float:left;
+    height:90px;
+    padding-left: 20px;
+    
+    
+}
+
+.link-container{
+    width:90px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 5px;
+    border-style: solid;
+    border-width: 1.5px;
+    background-color:white;
+    height:300.5px;
+    font-family: arial;
+        
+}
+
+.pLinks{
+    float:left;
+    width:200px;
+    padding-left: 50px;
+    padding-top:5px;
+    border-width: 1.5px;
+    text-align:center;
+    text-decoration: none;
+    color: green;
+    font-family: arial;
+    
+}
+
+.input {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.backlink {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    float:right;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.backlinkform {
+    padding-bottom: 20px;
+}
+
+.catalog {
+    float:right;
+    margin-right:350px;
+}
+
+
+
+.updatemoviebtn, .deletebtn {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    
+}
+
+
+
+
+
+
+
+.clearfix{
+ 
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
